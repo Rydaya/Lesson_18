@@ -1,0 +1,17 @@
+html, body{
+	box-sizing: border-box;
+}
+.row{
+	display: flex;
+}
+.col{
+	width: 25px;
+	height: 25px;
+	border: 1px solid #cccccc;
+}
+.black{
+	background-color: black;
+}
+.green{
+	background-color: green;
+}
